@@ -1,1 +1,19 @@
-11111111111
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="football1-ua" audio-track="rus" tvg-logo="https://i.imgur.com/wBD5yB1.png", Футбол 1 П1 Украина
+https://95-213-224-180.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 tvg-id="football1-ua" audio-track="rus" tvg-logo="https://i.imgur.com/wBD5yB1.png", Футбол 1 П2 Украина
+https://95-213-172-213.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 tvg-id="football1-ua" audio-track="rus" tvg-logo="https://i.imgur.com/wBD5yB1.png", Футбол 1 П3 Украина
+https://46-166-142-27.livesports24.online/uafootballua1.m3u
+
+#EXTINF:-1 tvg-id="match-football1" audio-track="rus" tvg-logo="https://i.imgur.com/5HNfm1k.png", Матч Футбол 1 Россия
+https://95-213-172-220.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" audio-track="rus" tvg-logo="https://i.imgur.com/5HNfm1k.png", ///11111111
+https://barsportbar.com/lba/ODYwZTUyOWU2NTAwNGNmODM2MzgzOTdjOWU0OGRmNDM=/g1/mfootball1.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" audio-track="rus" tvg-logo="https://i.imgur.com/3aS4KFH.png", TV1000 Action
+http://50.7.231.221:8081/138/index.m3u8?wmsAuthSign=1634953658p14i04i732i19S99a5945ebef00f2bfc2cbad32e8e9d49
